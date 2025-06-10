@@ -1,0 +1,2 @@
+ "d:\Kuliah\Pemrograman\p13\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
+cd "d:\Kuliah\Pemrograman\p13\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
