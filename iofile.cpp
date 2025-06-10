@@ -13,6 +13,12 @@ int main() {
 
     while (true) {
         cout << "- ";
+        getline(cin, baris);
+        if (baris == "q") break;
+        outfile << baris << endl;
     }
+    
+    outfile.close();
+    ifstream infile;
     
 }
